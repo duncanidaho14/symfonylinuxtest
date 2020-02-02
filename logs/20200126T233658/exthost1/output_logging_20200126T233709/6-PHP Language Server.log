@@ -1,0 +1,449 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The xdebug extension is not loaded
+
+[Info  - 23:37:12] 4737 files total
+[Info  - 23:37:12] Indexing project for definitions and static references
+Parsing file:///var/www/html/lab/sites/testsymfony/config/bundles.php
+Parsing file:///var/www/html/lab/sites/testsymfony/config/bootstrap.php
+Parsing file:///var/www/html/lab/sites/testsymfony/vendor/autoload.php
+Parsing file:///var/www/html/lab/sites/testsymfony/vendor/composer/autoload_namespaces.php
+Parsing file:///var/www/html/lab/sites/testsymfony/vendor/composer/autoload_classmap.php
+Parsing file:///var/www/html/lab/sites/testsymfony/vendor/composer/autoload_static.php
+Parsing file:///var/www/html/lab/sites/testsymfony/vendor/composer/autoload_real.php
+Parsing file:///var/www/html/lab/sites/testsymfony/vendor/composer/autoload_psr4.php
+Parsing file:///var/www/html/lab/sites/testsymfony/vendor/composer/autoload_files.php
+Parsing file:///var/www/html/lab/sites/testsymfony/vendor/composer/ClassLoader.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/url_generating_routes.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/annotations.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/serialization.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/App_KernelDevDebugContainer.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/App_KernelDevDebugContainer.preload.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/validation.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/Container3o2XMv9/App_KernelDevDebugContainer.php
+[Info  - 23:37:13] Ignoring file file:///var/www/html/lab/sites/testsymfony/var/cache/dev/Container3o2XMv9/App_KernelDevDebugContainer.php because it exceeds size limit of 150000 bytes (385317)
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/Container3o2XMv9/removed-ids.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/ContainerI0PS5rQ/App_KernelDevDebugContainer.php
+[Info  - 23:37:13] Ignoring file file:///var/www/html/lab/sites/testsymfony/var/cache/dev/ContainerI0PS5rQ/App_KernelDevDebugContainer.php because it exceeds size limit of 150000 bytes (412363)
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/ContainerI0PS5rQ/removed-ids.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/1d/1d997eb31b59d68b269e71a2a96eadcd5336c26d22ef4d6aede141c2ce26efea.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/64/64c70eb736cd4ea14b777dccebdc716ace1088186ae579dcedc9f16da2cdc36e.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/0a/0abd46da2a5aac7396de6ebd28eae6c6101534d5f23c7161f920c7341a5e30da.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/7c/7cce94cd785cd7aa7101b39ef0f9917933c175ca58af755eacf672813fcff83f.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/e6/e6dd23c92b858c9b3b7d58e16391f1a2d28e863f5ffd1e6fd9387c23458f6d19.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/e6/e6b62317389b87215133b7066f3b2be722d8371edeb8ab73eeb7948c9993f535.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/cc/ccf7e7c4ff5f0a05a856f40f0f80732dbf16edafa925e0626928f2e92949da12.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/5f/5fd92502720b1d4c96c60165db98e6834b98ae6f0953a7e61c5788e25fda7532.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/5f/5fb68f737e3b84016a5c89344b7a037ca17dd6c6f6c7f84f53f1558d6887d253.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/0f/0ffdb03dd8923933342258162ab35914272144e5b60356d2ff9d1a6f5bd0a2ce.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/21/219a89b6e9b455d1f458a18693b270cb6d2caa918037c6510aeafdeb665f002d.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/da/da8229a86e6e00dd4daeeaac1a706bf477b2726b279b61746cb24094cbd3ab39.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/f4/f4a8a925d5428642a035199c2258440d1bdac2c8f84456ed3ed5c9ae898714ef.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/4e/4eb002952b6ab65ba7f46c929f3b828aaa0485417f40488028897d4ded6b170b.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/78/782db96d492a88a9a5369f480e33ed7e94f3e2f116ae6a3022bd67aa32f6d75d.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/00/00e91d9179b8c5fd16a38cf69c51d10804d972f6557fb668d572a3eb9fb01795.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/e2/e214ba136ed1fcbcbb01732721899902cea1def9d800307752ad9a7b0ff9c3a5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/72/721371bba4223de5d1600bda3dbd3f096c8bb53724d3e5802bba6b03c6a88b73.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/72/72a25c1dc25a98101903d20449d7577d97bdb24f2e3123732fc56783ea09ee84.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/18/186ec32438a42c70303d798bc3fc5f5da4f7c1372673eaf7d470727004021a25.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/92/92bb06b8cc00578d1436fdbf6f03e2bfad5ea1a6e9bec5620349bf83af763bed.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/92/920cfd0171f89c5a2a7a9f12199838213a95ddb77aab162478ce2ab3673b5f5a.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/92/92c65c280bcd8ec8f578438f43ae660b9bfaf29d282c29b93b2a82f94116760d.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/08/0848993aca0a67623a7923d7b9931b31cbab248461157fa0d2c045f5905c8d86.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/f3/f397062264722b19d990772176bf185218c0652f2add6c6e78ff2e643efd79ea.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/9e/9e27fb66830d40fdb690eb920b9ed9203ab7a80071af3038690f4b4ea1a12bf7.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/68/683352925a8a53a4d7bab81a91e5eb67226b988a3f38ca7a63ca0d068b96938b.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/61/6162b06116f46952168ec60a7f96f0845cd2cf8e153807e6aa5f00f1dee2bd0a.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/b6/b61d031dfc7004bcd2d4f5b1efa92d566ec495776a208307860667138849a78b.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/b6/b6ff46bbb947362fd5119bf5c881aab6e8a2cb4bd5f464213c0d20351ab28502.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/0d/0d8e76eb9f2fa7e49e1974003db7c6c3611827f6a93cd48f2ad722479ee44fc8.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/0d/0dc8c432a326ea50d6efdd90307ae95680bcfcac08d376048d0b2c4255f6f1a6.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/01/01e8ae078adf0ee77c9803083365fdd0d215301c39f8a34672a4b8e37ef5f1e1.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/a8/a812a0e4d9cd0c6f8c3c79e480989060d6ef42e89d0b32897988e31d7a4aef68.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/d4/d436fe76a757d2e589c21a275db45ee20d9ebfce871232adfee6d47b394f60f7.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/69/698271bfcd30cd469c27a29fa506a66586194000e5dfbacca6e1ef44e27b08b1.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/7d/7d1b8596b1f80c996fdb275d656389044c456268ed56002237850880ccce0090.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/7d/7d9544ade570e620cb5bc44b6b3d82ca5dd4f071cf942210b266ad47fec45d0b.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/6b/6be13dd84458282982e857368b557d912995d75d58565b331f2682306d12a438.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/aa/aa197f6496d0e136505986ec55eae1a426a6381f6020836e53f7f65b73f1ce51.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/d5/d52986a19b9798a2aa9150d9cf75cec2465e4bae67b334d6a394586ff5279001.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ee/ee9ff5d27d371eb39e09e0effb2a03258a82ceb765ab6ab87d6a1904add7fe0a.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/7e/7e9116ea14c1e5ab6b47f4137eafdcbd59467dae1c9602e82fce6d9a8ecbd29b.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/6f/6fbc1290aca5d2fd6fdd0e7d26f1a430722cb3a9ff9ce114f54fa9b2ee04a051.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/2e/2ef041dc6b143c2fb52312c1cacaff6f2f880996f904ffed7b0c0c2bf134a5b3.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/27/27a26d496de5a4363684706b066a1f2d28c681b2d3faf2266e12c3bbde88c696.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/5e/5ef41ed8fd53aa5dd205197715f2f58dca70828f784f67b54df40f42f9a740c7.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/91/915c77532f41644975d2c1f611d7cbf72c340e3a56c5612782e133a93650c262.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/d3/d3c28dccb6c2dfaede10909d7343e16195169a9a0add5488b7a16617e487bdc3.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/19/192373adc4d3b522c9fd3fe91baa26287970425e04030ce1d34cd125b4cd0312.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/46/46be3034b8e13491726c9ad20aeb216adfb77b7cc7b8d0bf8139a637521aeb15.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/99/99965c1200f47446631b824bb41b34e81927d27fef2e7927b5708de12ce7c3c9.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/12/120777e9d10101c25ecb6914a583de66cc99b2abbbe6582454cb05648f7ff990.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/dd/dd4d5e409f3511e9da0623c55820912f368e63cf038268e62f2fd3c82940152b.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/dd/ddade0bd0f66802baf9109f73d60d470ad068b3a1785b7f7cea36875c811cec7.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/2a/2aa0a56ec29ce5d37736504f60a3419bb7052159a949b6743acea9b1eb11f830.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/a3/a31ba695b3ba0ca9962ed3a17c9c6bcd747cc964717c8aebe60ea84616b7a30c.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/d1/d1ce5ac327d46b5b863bc621d060658665af126164b73d00d359761bd9f493e6.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/c8/c83a3c589ec04bb9ab0d43114fac91baea8e0120650c06bb0fa7b8185e527284.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/c8/c8bd11f03d1fb2e48fbf477c386a6015966421bd89321dd5222ebb86ca332670.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/95/956cf96d876c761a4adf2f28afd240c442f2934a0099ae3ce21fbf810cb8d8a1.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ea/eabef02fb513500df60d7070cde82bd13a7b464ee3aa2db7e3f9df6967a6a824.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ea/ea1fc86ea2e29488ced92d621cfa4c32a1c7ca09f86b4ef1a83ceb0174af602b.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/34/3459b51a9dafe78e5d244fcfd66917dcdbf199e7a3f0b0d121b68a12178e8440.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ad/add37ed1ab3b229ba34ed2b75cad9e27f1e582f9c28b5cf06289fa6e3a140205.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/14/1469a3f167df2b2cd414536dd101ccbb9c0b51a43fcb3d046fee52caf489af25.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/14/141b8a206ea0909a4134863e40cdc7318980b9b0da616974b1c16842b56c92ae.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/4f/4f0b99c331a8fc0899c5ceac08cd05f5d9bc3d8757372191427a30c1a5e87bdb.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/11/11b828e8d4465311325d2209226a55a009b9cddfa3155af796cbf43da562d23e.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/f7/f787baa6f60e299220f91e56764d71fc7215f9ed83e3174ceccc4ed40f9cf45a.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/36/3615f844f85f0ee98cc9fdb54b31af0d4b553cb8cc1c0478b28f3dc62f1854f6.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/56/5685fe5ef4187efa3abbb293a1339696c428dfd1ade06fa38ab1266dcde5fc22.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/5c/5c081c6f7a8e0e6f8097d0e302a3dca01d4dfb45374f7033a0716622e3ede684.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/a6/a6813216c5a3333d9354d8f589e634fae6be648d9b96d46e61f17451ac27c827.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/0b/0b3f8bcda5f62860f8c1b9bed48b2454074b587f515f0d1650e34021e80debfe.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/be/be2fba62f93a1dd9586bd7f2423cbc6064769d6a08effa7a1e03ef8eabe76974.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ab/ab7e9b92476a3eac9b41288d666d250a63729f096c853c6a6dc1d44de4084f44.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ba/baaa68335f70ff9afd272e68fb156cfc47a84c11fdce52b99cdaa671be7d9f79.php
+[Info  - 23:37:19] Ignoring file file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ba/baaa68335f70ff9afd272e68fb156cfc47a84c11fdce52b99cdaa671be7d9f79.php because it exceeds size limit of 150000 bytes (185251)
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ed/edbbef7532fc3299292485cb5119f37fdff68216ffd4ffe05e5086a057f51dd5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ed/ed24e7a1cd23832db9c6bb98531dc5e9e8253bf1a279352f62730e4481284017.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ed/ed92a173b0eb90c52ac43485dcf41d49927c10eaf318f3919488cb25bc3d746a.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ac/accf644cee9718a8a35817a7941c434574b4b520603706eeb5758a72075c2d9b.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/07/070ec12098ae2c008e4b114c857aadf362e7ab2fd6ab5f6cb00e415e03fc3f26.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/df/df2531d9dea826ec21eb26cb88ee71beb4abc5bc032def8ada2a6dc32c92ffe2.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/89/89354d20b2283e14ff601b997f3206bdb9085d3b75815e98ab6ca928cc511b71.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/b1/b1847e342fda3db8363f9ae340c92b062c993b66a4bd21b0bc6ab71f817cf450.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/e1/e186fa18ea165d04bdacb444a74110c58e2a89817c57ed9e477dffdc9ca98751.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/e1/e1d6f305b146c6d9ad2dc5922ff251cdb405b1554f118a35717c8e3b593225f0.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/2c/2cc62d73288d16d7f8d96bcb3d84fe5e9d0482c7107bccb131eb9dcbdf8e4aae.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/52/5239cfe8af4f9ad49de26ec763b093f6e16a6b5a94b60bea5bf2b81a90a33d9d.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.bg.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.ar.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.hr.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.sr_Latn.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.lb.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.pl.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.sl.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.pt_BR.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.hu.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.zh_TW.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.uk.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.az.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.nl.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.en.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.ro.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.et.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.ca.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.es.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.he.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.zh_CN.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.cy.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.af.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.tl.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.eu.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.gl.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.sv.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.ja.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.hy.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.nn.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.mn.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.el.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.no.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.lt.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.th.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.da.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.sr_Cyrl.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.be.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.it.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.fr.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.pt_PT.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.fi.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.vi.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.lv.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.tr.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.nb.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.sq.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.cs.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.sk.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.de.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.ru.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.pt.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.fa.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.id.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/url_matching_routes.php
+Parsing file:///var/www/html/lab/sites/testsymfony/src/Kernel.php
+Parsing file:///var/www/html/lab/sites/testsymfony/public/index.php
+[Info  - 23:37:21] Indexing project for dynamic references
+Parsing file:///var/www/html/lab/sites/testsymfony/config/bundles.php
+Parsing file:///var/www/html/lab/sites/testsymfony/config/bootstrap.php
+Parsing file:///var/www/html/lab/sites/testsymfony/vendor/autoload.php
+Parsing file:///var/www/html/lab/sites/testsymfony/vendor/composer/autoload_namespaces.php
+Parsing file:///var/www/html/lab/sites/testsymfony/vendor/composer/autoload_classmap.php
+Parsing file:///var/www/html/lab/sites/testsymfony/vendor/composer/autoload_static.php
+Parsing file:///var/www/html/lab/sites/testsymfony/vendor/composer/autoload_real.php
+Parsing file:///var/www/html/lab/sites/testsymfony/vendor/composer/autoload_psr4.php
+Parsing file:///var/www/html/lab/sites/testsymfony/vendor/composer/autoload_files.php
+Parsing file:///var/www/html/lab/sites/testsymfony/vendor/composer/ClassLoader.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/url_generating_routes.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/annotations.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/serialization.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/App_KernelDevDebugContainer.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/App_KernelDevDebugContainer.preload.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/validation.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/Container3o2XMv9/App_KernelDevDebugContainer.php
+[Info  - 23:37:21] Ignoring file file:///var/www/html/lab/sites/testsymfony/var/cache/dev/Container3o2XMv9/App_KernelDevDebugContainer.php because it exceeds size limit of 150000 bytes (385317)
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/Container3o2XMv9/removed-ids.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/ContainerI0PS5rQ/App_KernelDevDebugContainer.php
+[Info  - 23:37:21] Ignoring file file:///var/www/html/lab/sites/testsymfony/var/cache/dev/ContainerI0PS5rQ/App_KernelDevDebugContainer.php because it exceeds size limit of 150000 bytes (412363)
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/ContainerI0PS5rQ/removed-ids.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/1d/1d997eb31b59d68b269e71a2a96eadcd5336c26d22ef4d6aede141c2ce26efea.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/64/64c70eb736cd4ea14b777dccebdc716ace1088186ae579dcedc9f16da2cdc36e.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/0a/0abd46da2a5aac7396de6ebd28eae6c6101534d5f23c7161f920c7341a5e30da.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/7c/7cce94cd785cd7aa7101b39ef0f9917933c175ca58af755eacf672813fcff83f.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/e6/e6dd23c92b858c9b3b7d58e16391f1a2d28e863f5ffd1e6fd9387c23458f6d19.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/e6/e6b62317389b87215133b7066f3b2be722d8371edeb8ab73eeb7948c9993f535.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/cc/ccf7e7c4ff5f0a05a856f40f0f80732dbf16edafa925e0626928f2e92949da12.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/5f/5fd92502720b1d4c96c60165db98e6834b98ae6f0953a7e61c5788e25fda7532.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/5f/5fb68f737e3b84016a5c89344b7a037ca17dd6c6f6c7f84f53f1558d6887d253.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/0f/0ffdb03dd8923933342258162ab35914272144e5b60356d2ff9d1a6f5bd0a2ce.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/21/219a89b6e9b455d1f458a18693b270cb6d2caa918037c6510aeafdeb665f002d.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/da/da8229a86e6e00dd4daeeaac1a706bf477b2726b279b61746cb24094cbd3ab39.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/f4/f4a8a925d5428642a035199c2258440d1bdac2c8f84456ed3ed5c9ae898714ef.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/4e/4eb002952b6ab65ba7f46c929f3b828aaa0485417f40488028897d4ded6b170b.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/78/782db96d492a88a9a5369f480e33ed7e94f3e2f116ae6a3022bd67aa32f6d75d.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/00/00e91d9179b8c5fd16a38cf69c51d10804d972f6557fb668d572a3eb9fb01795.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/e2/e214ba136ed1fcbcbb01732721899902cea1def9d800307752ad9a7b0ff9c3a5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/72/721371bba4223de5d1600bda3dbd3f096c8bb53724d3e5802bba6b03c6a88b73.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/72/72a25c1dc25a98101903d20449d7577d97bdb24f2e3123732fc56783ea09ee84.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/18/186ec32438a42c70303d798bc3fc5f5da4f7c1372673eaf7d470727004021a25.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/92/92bb06b8cc00578d1436fdbf6f03e2bfad5ea1a6e9bec5620349bf83af763bed.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/92/920cfd0171f89c5a2a7a9f12199838213a95ddb77aab162478ce2ab3673b5f5a.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/92/92c65c280bcd8ec8f578438f43ae660b9bfaf29d282c29b93b2a82f94116760d.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/08/0848993aca0a67623a7923d7b9931b31cbab248461157fa0d2c045f5905c8d86.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/f3/f397062264722b19d990772176bf185218c0652f2add6c6e78ff2e643efd79ea.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/9e/9e27fb66830d40fdb690eb920b9ed9203ab7a80071af3038690f4b4ea1a12bf7.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/68/683352925a8a53a4d7bab81a91e5eb67226b988a3f38ca7a63ca0d068b96938b.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/61/6162b06116f46952168ec60a7f96f0845cd2cf8e153807e6aa5f00f1dee2bd0a.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/b6/b61d031dfc7004bcd2d4f5b1efa92d566ec495776a208307860667138849a78b.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/b6/b6ff46bbb947362fd5119bf5c881aab6e8a2cb4bd5f464213c0d20351ab28502.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/0d/0d8e76eb9f2fa7e49e1974003db7c6c3611827f6a93cd48f2ad722479ee44fc8.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/0d/0dc8c432a326ea50d6efdd90307ae95680bcfcac08d376048d0b2c4255f6f1a6.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/01/01e8ae078adf0ee77c9803083365fdd0d215301c39f8a34672a4b8e37ef5f1e1.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/a8/a812a0e4d9cd0c6f8c3c79e480989060d6ef42e89d0b32897988e31d7a4aef68.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/d4/d436fe76a757d2e589c21a275db45ee20d9ebfce871232adfee6d47b394f60f7.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/69/698271bfcd30cd469c27a29fa506a66586194000e5dfbacca6e1ef44e27b08b1.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/7d/7d1b8596b1f80c996fdb275d656389044c456268ed56002237850880ccce0090.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/7d/7d9544ade570e620cb5bc44b6b3d82ca5dd4f071cf942210b266ad47fec45d0b.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/6b/6be13dd84458282982e857368b557d912995d75d58565b331f2682306d12a438.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/aa/aa197f6496d0e136505986ec55eae1a426a6381f6020836e53f7f65b73f1ce51.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/d5/d52986a19b9798a2aa9150d9cf75cec2465e4bae67b334d6a394586ff5279001.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ee/ee9ff5d27d371eb39e09e0effb2a03258a82ceb765ab6ab87d6a1904add7fe0a.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/7e/7e9116ea14c1e5ab6b47f4137eafdcbd59467dae1c9602e82fce6d9a8ecbd29b.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/6f/6fbc1290aca5d2fd6fdd0e7d26f1a430722cb3a9ff9ce114f54fa9b2ee04a051.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/2e/2ef041dc6b143c2fb52312c1cacaff6f2f880996f904ffed7b0c0c2bf134a5b3.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/27/27a26d496de5a4363684706b066a1f2d28c681b2d3faf2266e12c3bbde88c696.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/5e/5ef41ed8fd53aa5dd205197715f2f58dca70828f784f67b54df40f42f9a740c7.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/91/915c77532f41644975d2c1f611d7cbf72c340e3a56c5612782e133a93650c262.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/d3/d3c28dccb6c2dfaede10909d7343e16195169a9a0add5488b7a16617e487bdc3.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/19/192373adc4d3b522c9fd3fe91baa26287970425e04030ce1d34cd125b4cd0312.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/46/46be3034b8e13491726c9ad20aeb216adfb77b7cc7b8d0bf8139a637521aeb15.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/99/99965c1200f47446631b824bb41b34e81927d27fef2e7927b5708de12ce7c3c9.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/12/120777e9d10101c25ecb6914a583de66cc99b2abbbe6582454cb05648f7ff990.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/dd/dd4d5e409f3511e9da0623c55820912f368e63cf038268e62f2fd3c82940152b.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/dd/ddade0bd0f66802baf9109f73d60d470ad068b3a1785b7f7cea36875c811cec7.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/2a/2aa0a56ec29ce5d37736504f60a3419bb7052159a949b6743acea9b1eb11f830.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/a3/a31ba695b3ba0ca9962ed3a17c9c6bcd747cc964717c8aebe60ea84616b7a30c.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/d1/d1ce5ac327d46b5b863bc621d060658665af126164b73d00d359761bd9f493e6.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/c8/c83a3c589ec04bb9ab0d43114fac91baea8e0120650c06bb0fa7b8185e527284.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/c8/c8bd11f03d1fb2e48fbf477c386a6015966421bd89321dd5222ebb86ca332670.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/95/956cf96d876c761a4adf2f28afd240c442f2934a0099ae3ce21fbf810cb8d8a1.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ea/eabef02fb513500df60d7070cde82bd13a7b464ee3aa2db7e3f9df6967a6a824.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ea/ea1fc86ea2e29488ced92d621cfa4c32a1c7ca09f86b4ef1a83ceb0174af602b.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/34/3459b51a9dafe78e5d244fcfd66917dcdbf199e7a3f0b0d121b68a12178e8440.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ad/add37ed1ab3b229ba34ed2b75cad9e27f1e582f9c28b5cf06289fa6e3a140205.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/14/1469a3f167df2b2cd414536dd101ccbb9c0b51a43fcb3d046fee52caf489af25.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/14/141b8a206ea0909a4134863e40cdc7318980b9b0da616974b1c16842b56c92ae.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/4f/4f0b99c331a8fc0899c5ceac08cd05f5d9bc3d8757372191427a30c1a5e87bdb.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/11/11b828e8d4465311325d2209226a55a009b9cddfa3155af796cbf43da562d23e.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/f7/f787baa6f60e299220f91e56764d71fc7215f9ed83e3174ceccc4ed40f9cf45a.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/36/3615f844f85f0ee98cc9fdb54b31af0d4b553cb8cc1c0478b28f3dc62f1854f6.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/56/5685fe5ef4187efa3abbb293a1339696c428dfd1ade06fa38ab1266dcde5fc22.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/5c/5c081c6f7a8e0e6f8097d0e302a3dca01d4dfb45374f7033a0716622e3ede684.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/a6/a6813216c5a3333d9354d8f589e634fae6be648d9b96d46e61f17451ac27c827.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/0b/0b3f8bcda5f62860f8c1b9bed48b2454074b587f515f0d1650e34021e80debfe.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/be/be2fba62f93a1dd9586bd7f2423cbc6064769d6a08effa7a1e03ef8eabe76974.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ab/ab7e9b92476a3eac9b41288d666d250a63729f096c853c6a6dc1d44de4084f44.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ba/baaa68335f70ff9afd272e68fb156cfc47a84c11fdce52b99cdaa671be7d9f79.php
+[Info  - 23:37:28] Ignoring file file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ba/baaa68335f70ff9afd272e68fb156cfc47a84c11fdce52b99cdaa671be7d9f79.php because it exceeds size limit of 150000 bytes (185251)
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ed/edbbef7532fc3299292485cb5119f37fdff68216ffd4ffe05e5086a057f51dd5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ed/ed24e7a1cd23832db9c6bb98531dc5e9e8253bf1a279352f62730e4481284017.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ed/ed92a173b0eb90c52ac43485dcf41d49927c10eaf318f3919488cb25bc3d746a.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/ac/accf644cee9718a8a35817a7941c434574b4b520603706eeb5758a72075c2d9b.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/07/070ec12098ae2c008e4b114c857aadf362e7ab2fd6ab5f6cb00e415e03fc3f26.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/df/df2531d9dea826ec21eb26cb88ee71beb4abc5bc032def8ada2a6dc32c92ffe2.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/89/89354d20b2283e14ff601b997f3206bdb9085d3b75815e98ab6ca928cc511b71.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/b1/b1847e342fda3db8363f9ae340c92b062c993b66a4bd21b0bc6ab71f817cf450.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/e1/e186fa18ea165d04bdacb444a74110c58e2a89817c57ed9e477dffdc9ca98751.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/e1/e1d6f305b146c6d9ad2dc5922ff251cdb405b1554f118a35717c8e3b593225f0.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/2c/2cc62d73288d16d7f8d96bcb3d84fe5e9d0482c7107bccb131eb9dcbdf8e4aae.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/twig/52/5239cfe8af4f9ad49de26ec763b093f6e16a6b5a94b60bea5bf2b81a90a33d9d.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.bg.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.ar.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.hr.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.sr_Latn.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.lb.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.pl.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.sl.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.pt_BR.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.hu.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.zh_TW.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.uk.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.az.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.nl.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.en.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.ro.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.et.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.ca.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.es.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.he.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.zh_CN.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.cy.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.af.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.tl.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.eu.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.gl.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.sv.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.ja.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.hy.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.nn.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.mn.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.el.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.no.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.lt.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.th.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.da.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.sr_Cyrl.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.be.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.it.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.fr.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.pt_PT.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.fi.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.vi.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.lv.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.tr.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.nb.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.sq.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.cs.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.sk.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.de.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.ru.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.pt.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.fa.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/translations/catalogue.id.pr4PiN5.php
+Parsing file:///var/www/html/lab/sites/testsymfony/var/cache/dev/url_matching_routes.php
+Parsing file:///var/www/html/lab/sites/testsymfony/src/Kernel.php
+Parsing file:///var/www/html/lab/sites/testsymfony/public/index.php
+[Info  - 23:37:30] 103 Packages
+[Info  - 23:37:30] Restored monolog/monolog:2.0.2 from cache
+[Info  - 23:37:30] Restored symfony/intl:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/asset:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/phpunit-bridge:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/debug-bundle:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/console:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/property-info:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/polyfill-mbstring:1.13.1 from cache
+[Info  - 23:37:31] Restored symfony/web-link:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/cache:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/translation-contracts:2.0.1 from cache
+[Info  - 23:37:31] Restored symfony/monolog-bridge:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/polyfill-intl-grapheme:1.13.1 from cache
+[Info  - 23:37:31] Restored symfony/polyfill-php73:1.13.1 from cache
+[Info  - 23:37:31] Restored symfony/process:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/string:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/http-foundation:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/config:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/expression-language:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/security-http:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/framework-bundle:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/polyfill-intl-icu:1.13.1 from cache
+[Info  - 23:37:31] Restored symfony/security-core:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/stopwatch:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/inflector:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/security-bundle:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/cache-contracts:2.0.1 from cache
+[Info  - 23:37:31] Restored symfony/event-dispatcher-contracts:2.0.1 from cache
+[Info  - 23:37:31] Restored symfony/event-dispatcher:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/property-access:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/var-exporter:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/web-profiler-bundle:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/service-contracts:2.0.1 from cache
+[Info  - 23:37:31] Restored symfony/http-client-contracts:2.0.1 from cache
+[Info  - 23:37:31] Restored symfony/flex:1.6.0 from cache
+[Info  - 23:37:31] Restored symfony/maker-bundle:1.14.3 from cache
+[Info  - 23:37:31] Restored symfony/yaml:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/monolog-bundle:3.5.0 from cache
+[Info  - 23:37:31] Restored symfony/messenger:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/twig-bridge:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/dom-crawler:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/notifier:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/serializer:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/http-client:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/mime:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/finder:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/form:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/polyfill-intl-idn:1.13.1 from cache
+[Info  - 23:37:31] Restored symfony/doctrine-bridge:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/twig-bundle:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/dependency-injection:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/validator:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/security-guard:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/css-selector:5.0.3 from cache
+[Info  - 23:37:31] Restored symfony/filesystem:5.0.3 from cache
+[Info  - 23:37:32] Restored symfony/browser-kit:5.0.3 from cache
+[Info  - 23:37:32] Restored symfony/mailer:5.0.3 from cache
+[Info  - 23:37:32] Restored symfony/dotenv:5.0.3 from cache
+[Info  - 23:37:32] Restored symfony/routing:5.0.3 from cache
+[Info  - 23:37:32] Restored symfony/translation:5.0.3 from cache
+[Info  - 23:37:32] Restored symfony/error-handler:5.0.3 from cache
+[Info  - 23:37:32] Restored symfony/polyfill-intl-normalizer:1.13.1 from cache
+[Info  - 23:37:32] Restored symfony/security-csrf:5.0.3 from cache
+[Info  - 23:37:32] Restored symfony/http-kernel:5.0.3 from cache
+[Info  - 23:37:32] Restored symfony/options-resolver:5.0.3 from cache
+[Info  - 23:37:32] Restored symfony/var-dumper:5.0.3 from cache
+[Info  - 23:37:32] Restored egulias/email-validator:2.1.15 from cache
+[Info  - 23:37:32] Restored webimpress/safe-writer:2.0.0 from cache
+[Info  - 23:37:32] Restored sensio/framework-extra-bundle:5.5.3 from cache
+[Info  - 23:37:32] Restored phpdocumentor/type-resolver:1.0.1 from cache
+[Info  - 23:37:32] Restored phpdocumentor/reflection-common:2.0.0 from cache
+[Info  - 23:37:32] Restored phpdocumentor/reflection-docblock:4.3.4 from cache
+[Info  - 23:37:32] Restored jdorn/sql-formatter:1.2.17 from cache
+[Info  - 23:37:32] Restored easycorp/easy-log-handler:1.0.9 from cache
+[Info  - 23:37:32] Restored nikic/php-parser:4.3.0 from cache
+[Info  - 23:37:32] Restored laminas/laminas-zendframework-bridge:1.0.1 from cache
+[Info  - 23:37:32] Restored laminas/laminas-code:3.4.1 from cache
+[Info  - 23:37:32] Restored laminas/laminas-eventmanager:3.2.1 from cache
+[Info  - 23:37:32] Restored psr/cache:1.0.1 from cache
+[Info  - 23:37:32] Restored psr/link:1.0.0 from cache
+[Info  - 23:37:32] Restored psr/log:1.1.2 from cache
+[Info  - 23:37:32] Restored psr/event-dispatcher:1.0.0 from cache
+[Info  - 23:37:32] Restored psr/container:1.0.0 from cache
+[Info  - 23:37:32] Restored doctrine/cache:1.10.0 from cache
+[Info  - 23:37:32] Restored doctrine/persistence:1.3.6 from cache
+[Info  - 23:37:32] Restored doctrine/annotations:1.8.0 from cache
+[Info  - 23:37:32] Restored doctrine/lexer:1.2.0 from cache
+[Info  - 23:37:32] Restored doctrine/instantiator:1.3.0 from cache
+[Info  - 23:37:32] Restored doctrine/event-manager:1.1.0 from cache
+[Info  - 23:37:32] Restored doctrine/doctrine-migrations-bundle:2.1.2 from cache
+[Info  - 23:37:32] Restored doctrine/migrations:2.2.1 from cache
+[Info  - 23:37:32] Restored doctrine/common:2.12.0 from cache
+[Info  - 23:37:32] Restored doctrine/inflector:1.3.1 from cache
+[Info  - 23:37:32] Restored doctrine/reflection:1.1.0 from cache
+[Info  - 23:37:32] Restored doctrine/doctrine-bundle:2.0.7 from cache
+[Info  - 23:37:32] Restored doctrine/collections:1.6.4 from cache
+[Info  - 23:37:32] Restored doctrine/dbal:2.10.1 from cache
+[Info  - 23:37:32] Restored doctrine/orm:2.7.0 from cache
+[Info  - 23:37:32] Restored webmozart/assert:1.6.0 from cache
+[Info  - 23:37:32] Restored ocramius/proxy-manager:2.6.0 from cache
+[Info  - 23:37:33] Restored ocramius/package-versions:1.5.1 from cache
+[Info  - 23:37:33] Restored twig/twig:3.0.1 from cache
+[Info  - 23:37:33] Restored twig/extra-bundle:3.0.1 from cache
+[Info  - 23:37:33] All 4737 PHP files parsed in 20 seconds. 425 MiB allocated.

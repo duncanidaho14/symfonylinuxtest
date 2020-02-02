@@ -1,0 +1,28 @@
+[2020-01-26 23:37:04.117] [exthost] [info] extension host started
+[2020-01-26 23:37:04.309] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-26 23:37:04.309] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-26 23:37:04.329] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-26 23:37:04.330] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-01-26 23:37:04.400] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-26 23:37:04.400] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-01-26 23:37:04.494] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-26 23:37:04.494] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-26 23:37:04.497] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-26 23:37:04.509] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-01-26 23:37:04.512] [exthost] [info] ExtensionService#_doActivateExtension bajdzis.vscode-database {"startup":true,"extensionId":{"value":"bajdzis.vscode-database","_lower":"bajdzis.vscode-database"},"activationEvent":"*"}
+[2020-01-26 23:37:04.512] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/bajdzis.vscode-database-2.2.0/out/extension.js
+[2020-01-26 23:37:04.741] [exthost] [info] ExtensionService#_doActivateExtension chenxsan.vscode-standardjs {"startup":true,"extensionId":{"value":"chenxsan.vscode-standardjs","_lower":"chenxsan.vscode-standardjs"},"activationEvent":"*"}
+[2020-01-26 23:37:04.741] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/chenxsan.vscode-standardjs-1.2.3/client/out/extension
+[2020-01-26 23:37:04.842] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-01-26 23:37:04.842] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/eamodio.gitlens-10.2.0/dist/extension
+[2020-01-26 23:37:05.005] [exthost] [info] ExtensionService#_doActivateExtension huizhou.githd {"startup":true,"extensionId":{"value":"huizhou.githd","_lower":"huizhou.githd"},"activationEvent":"*"}
+[2020-01-26 23:37:05.006] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/huizhou.githd-2.2.0/out/src/extension
+[2020-01-26 23:37:05.070] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph {"startup":true,"extensionId":{"value":"mhutchie.git-graph","_lower":"mhutchie.git-graph"},"activationEvent":"*"}
+[2020-01-26 23:37:05.074] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/mhutchie.git-graph-1.21.0/out/extension.js
+[2020-01-26 23:37:05.213] [exthost] [info] ExtensionService#_doActivateExtension vitorsalgado.vscode-redis {"startup":true,"extensionId":{"value":"vitorsalgado.vscode-redis","_lower":"vitorsalgado.vscode-redis"},"activationEvent":"*"}
+[2020-01-26 23:37:05.213] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/vitorsalgado.vscode-redis-1.2.0/src/extension
+[2020-01-26 23:37:05.391] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-01-26 23:37:05.391] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/vscode-icons-team.vscode-icons-9.7.0/dist/src/vscode-icons.bundle.js
+[2020-01-26 23:37:07.043] [exthost] [info] ExtensionService#_doActivateExtension felixfbecker.php-intellisense {"startup":true,"extensionId":{"value":"felixfbecker.php-intellisense","_lower":"felixfbecker.php-intellisense"},"activationEvent":"workspaceContains:**/*.php"}
+[2020-01-26 23:37:07.043] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/out/extension
+[2020-01-26 23:37:08.366] [exthost] [info] eager extensions activated
